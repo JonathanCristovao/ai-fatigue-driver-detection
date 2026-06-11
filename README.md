@@ -2,7 +2,7 @@
 
 Real-time driver fatigue detection using computer vision and TensorFlow Lite.
 
-<video src="assets/driver.mp4" width="640" controls></video>
+<img src="assets/driver.gif" width="300" />
 
 *Simulation of the application running in real time on a Raspberry Pi 5, fully offline. When a yawn is detected, the yellow LED starts blinking. If the eyes close, the speed decreases and the red LED turns on (simulating an emergency stop).*
 
