@@ -1,0 +1,4 @@
+-r requirements.txt
+tflite-runtime
+RPi.GPIO
+gpiozero
